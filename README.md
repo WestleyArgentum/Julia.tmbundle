@@ -1,4 +1,4 @@
-###Syntax highlighting for the Julia language (https://github.com/JuliaLang/julia)
+###Syntax highlighting for the [Julia](https://github.com/JuliaLang/julia) language
 =====================================
 #### Instalation for TextMate
 From the comand line:
